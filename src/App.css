@@ -1,0 +1,25 @@
+
+.align_center{
+  margin-left: auto;
+  margin-right: auto;
+}
+.align_textCenter{
+  text-align: center;
+}
+.align_buttonCenter{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: auto;
+}
+.button-size{
+  width: 150px;
+  height: auto;
+}
+.title-shadow{
+  text-shadow: -1px 1px 5px #fff;
+}
+
+.text-color-white{
+  color: #fff;
+}
